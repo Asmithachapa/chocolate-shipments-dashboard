@@ -1,11 +1,11 @@
-# 🍫 Chocolate Shipments Dashboard — Power BI
+# Chocolate Shipments Dashboard — Power BI
 
 > An interactive, multi-page Sales & Shipments Performance Dashboard built in Power BI,
 > analyzing revenue, profit, logistics, and team performance across products and regions.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Tools & Technologies](#tools--technologies)
@@ -30,7 +30,7 @@ salesperson performance — all with dynamic filtering and drill-down capabiliti
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Technology         | Purpose                                      |
 |---------------------------|----------------------------------------------|
@@ -41,7 +41,7 @@ salesperson performance — all with dynamic filtering and drill-down capabiliti
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dashboard is powered by a star-schema data model with five interconnected tables:
 
@@ -55,7 +55,7 @@ The dashboard is powered by a star-schema data model with five interconnected ta
 
 ---
 
-## 📊 Dashboard Pages & Features
+##  Dashboard Pages & Features
 
 ### Page 1 — Sales Analysis
 - Column chart: Sales amount by product (sorted descending)
@@ -92,15 +92,15 @@ The dashboard is powered by a star-schema data model with five interconnected ta
 
 ## 📈 Key Insights
 
-- 🏆 Identified top-performing products that drive the majority of revenue
-- 🌍 Revealed significant profit variation across geographic regions
-- 📅 Detected seasonal shipment peaks enabling proactive capacity planning
-- 👥 Surfaced top and bottom salesperson performance for targeted coaching
-- 📊 Delivered a single-page executive KPI view for fast decision-making
+-  Identified top-performing products that drive the majority of revenue
+-  Revealed significant profit variation across geographic regions
+-  Detected seasonal shipment peaks enabling proactive capacity planning
+-  Surfaced top and bottom salesperson performance for targeted coaching
+- Delivered a single-page executive KPI view for fast decision-making
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 > 📌 *Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.*
 
@@ -117,7 +117,7 @@ The dashboard is powered by a star-schema data model with five interconnected ta
 
 ---
 
-## 💼 Business Value
+##  Business Value
 
 This dashboard empowers stakeholders to:
 
@@ -140,12 +140,12 @@ This dashboard empowers stakeholders to:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Asmitha Chapa**
 
-- 🐙 GitHub: [github.com/Asmithachapa](https://github.com/Asmithachapa)
-- 💼 LinkedIn: [linkedin.com/in/asmitha-chapa-b5a86b377](https://www.linkedin.com/in/asmitha-chapa-b5a86b377)
+-  GitHub: [github.com/Asmithachapa](https://github.com/Asmithachapa)
+-  LinkedIn: [linkedin.com/in/asmitha-chapa-b5a86b377](https://www.linkedin.com/in/asmitha-chapa-b5a86b377)
 
 ---
 
